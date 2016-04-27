@@ -12,10 +12,6 @@
   },
   "author": "Sam Verschueren",
   "license": "ISC",
-  "files": [
-	"lib.js",
-	"index.js"  
-  ],
   "bugs": {
     "url": "https://github.com/SamVerschueren/npm-publish-index-test/issues"
   },
