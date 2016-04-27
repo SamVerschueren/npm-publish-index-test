@@ -1,0 +1,25 @@
+{
+  "name": "npm-publish-index-test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamVerschueren/npm-publish-index-test.git"
+  },
+  "author": "Sam Verschueren",
+  "license": "ISC",
+  "files": [
+	"index.js"  
+  ],
+  "bugs": {
+    "url": "https://github.com/SamVerschueren/npm-publish-index-test/issues"
+  },
+  "homepage": "https://github.com/SamVerschueren/npm-publish-index-test#readme",
+  "dependencies": {
+    "noop3": "^13.8.0"
+  }
+}
