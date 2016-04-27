@@ -13,6 +13,7 @@
   "author": "Sam Verschueren",
   "license": "ISC",
   "files": [
+	"lib.js",
 	"index.js"  
   ],
   "bugs": {
